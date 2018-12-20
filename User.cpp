@@ -11,7 +11,7 @@ User::User()
 		if (username.empty())
 		{
 			do {
-				std::cout << "Plese insert your username:" << std::endl;
+				std::cout << "Unesite vase korisnicko ime:" << std::endl;
 				std::cin >> username;
 			} while (!validUsername(username));
 			inFile.close();
