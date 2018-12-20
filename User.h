@@ -5,7 +5,7 @@
 #include <cctype>
 #include <algorithm>
 
-//Before using this class create an empty file "UserLog.txt"!!!
+//Before using this class create an empty file "AdnanPeder.txt"!!!
 class User
 {
 public:
